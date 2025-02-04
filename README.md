@@ -11,7 +11,7 @@ A simple and customizable countdown timer that allows users to set a specific ti
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/countdown-timer.git
+   git clone https://github.com/Subrat-IO/man.git
    ```
 2. Navigate to the project directory:
    ```sh
