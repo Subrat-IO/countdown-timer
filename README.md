@@ -15,7 +15,7 @@ A simple and customizable countdown timer that allows users to set a specific ti
    ```
 2. Navigate to the project directory:
    ```sh
-   cd countdown-timer
+   cd man
    ```
 3. Open `index.html` in a web browser.
 
